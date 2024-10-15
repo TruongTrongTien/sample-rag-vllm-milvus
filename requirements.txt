@@ -1,5 +1,4 @@
 fastapi
-uvicorn[fasfapi]
+uvicorn
 pymilvus
-milvus
 ipykernel
